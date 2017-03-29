@@ -1,0 +1,62 @@
+ *{
+  font-family: Helvetica;
+  font-size: 25px;
+ }
+
+
+ .background{
+    background: rgb(244, 248, 249);
+    width: 750px;
+    height: 260px;
+    margin-left: 400px;
+    margin-top: 150px;
+    padding-top: 10px;
+}
+  .tweet{
+   background: rgb(255, 255, 255);
+   border: 1px solid rgb(225, 232, 237);
+   width: 700px;
+   height: 245px;
+   margin-left: 20px;
+   border-radius: 10px;
+   padding-bottom: -10px;
+
+}
+.contenedor-de-follow {
+  margin-left:486px;
+  position: absolute;
+  margin-top: -100px;
+  width: 72px;
+  height: 25px;
+  border:solid 1px rgb(85, 172, 238);
+}
+.persona{ 
+  margin-left: 25px;
+  margin-top: 30px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+p {
+  position: absolute;
+  margin-left: 20px;
+}
+.info{
+  margin-top: -20px;
+}
+
+.jack {
+  margin-left: 90px;
+}
+.abajo {
+  margin-left: 20px;
+}
+
+   .username {
+    rgb(0, 0, 0);
+  }
+   .user account:      rgb(104, 109, 129);
+   text:              rgb(0, 0, 0);
+   date:              rgb(101, 116, 127);
+   bottom text color: rgb(105, 120, 130);
+   follow button:     rgb(85, 172, 238);
